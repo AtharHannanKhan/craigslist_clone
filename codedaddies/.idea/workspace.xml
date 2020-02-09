@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3e314d5-1fbe-4e7b-bdf1-e2367657f985" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git" />
+  </component>
+  <component name="ProjectId" id="1XNO4thorZERLT3o8saf5yW1XVp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="codedaddies" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="codedaddies" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ATHAR\PycharmProjects\codedaddies\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3e314d5-1fbe-4e7b-bdf1-e2367657f985" name="Default Changelist" comment="" />
+      <created>1580882897538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580882897538</updated>
+      <workItem from="1580918887461" duration="25585000" />
+      <workItem from="1580994991014" duration="3916000" />
+      <workItem from="1581016065510" duration="410000" />
+      <workItem from="1581016867813" duration="9016000" />
+      <workItem from="1581077789755" duration="1127000" />
+      <workItem from="1581258368074" duration="92000" />
+      <workItem from="1581258476549" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580992477072">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580992477072" />
+    <state x="407" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580942316749">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="407" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1580942316749" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1581258388322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581258388322" />
+    <state x="512" y="235" width="258" height="210" key="Github.ShareDialog" timestamp="1580997279805">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="512" y="235" width="258" height="210" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1580997279805" />
+    <state x="142" y="0" width="1021" height="680" key="SettingsEditor" timestamp="1581002600902">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" width="1021" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581002600902" />
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1581258477404">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581258477404" />
+    <state x="227" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1580995557204">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="227" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1580995557204" />
+  </component>
+</project>

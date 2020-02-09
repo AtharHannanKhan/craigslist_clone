@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My First Crap</title>
+     <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" href="{% static "css/style.css" %}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body  <div class="container,card-panel fbe9e7 deep-orange lighten-5" ></div>
+
+    <nav>
+    <div class="container nav-wrapper,">
+        <a href="/" class="brand-logo">First crap</a>
+        <ul id="nav-mobile" class="right">
+            <li><a href="/">Home</a></li>
+        </ul>
+    </div>
+</nav>
+
+{% block content %}
+ <h2 style="text-align: center">{{ search | title }}</h2>
+
+    <div class="row">
+        {% for post in final_postings %}
+            <div class="col s4">
+                <div class="card">
+                    <div class="card-image">
+                        <a href="{{ post.1 }}"><img src="{{ post.3 }}" alt=""></a>
+                    </div>
+                    <div class="card-content">
+                        <p>{{ post.0 }}</p>
+                    </div>
+                    <div class="card-action">
+                        <a href="{{ post.1 }}">View listing: Price {{ post.2 }}</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock content %}
